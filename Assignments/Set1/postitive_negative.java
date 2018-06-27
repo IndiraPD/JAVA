@@ -2,7 +2,7 @@ package assignment;
 
 import java.util.Scanner;
 
-public class Odd {
+public class Positive {
 
 	public static void main(String[] args) {
 		
