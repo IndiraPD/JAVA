@@ -3,7 +3,7 @@ package assignment;
 import java.util.Scanner;
 
 
-public class Last_digit {
+public class Second_last_digit {
 
 	public static void main(String[] args) {
 		
